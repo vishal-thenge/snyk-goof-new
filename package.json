@@ -20,6 +20,7 @@
   "dependencies": {
     "@snyk/nodejs-runtime-agent": "^1.31.0",
     "adm-zip": "0.4.11",
+    "aws-sdk":"1.18.0",
     "body-parser": "1.9.0",
     "cfenv": "^1.0.4",
     "consolidate": "0.14.5",
@@ -39,7 +40,7 @@
     "marked": "0.3.5",
     "method-override": "latest",
     "moment": "2.15.1",
-    "mongoose": "4.12.6",
+    "mongoose": "4.13.21",
     "morgan": "latest",
     "ms": "^0.7.1",
     "npmconf": "2.1.3",
